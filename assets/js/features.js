@@ -279,17 +279,17 @@ function customerFooterUI() {
                     <article class="contact">
                         <ul>
                             <h1 class="sm">Contact Information</h1>
-                            <li> <i class="fas fa-phone-alt"></i> <p>+233 55 876 6063</p></li>
+                            <li> <i class="fas fa-phone-alt"></i> <p>020 578 7188</p></li>
                             <li> <i class="fas fa-envelope"></i> <p>admission@atugroup4.co.in</p></li>
                             <li> <i class="fas fa-map-marker-alt"></i> <p>Address: P. O Box GP 561, Barnes road, Accra.</p></li>
                             <li> <i class="fas fa-globe-asia"></i> <p>For Professional Courses, Visit: www.atu.edu.gh</p></li>
                         </ul>
                     </article>
                 </main>
-                <!-- Rita.et.al Info -->
+                <!-- Group Canteen Info -->
                 <main class="deep-devs flex">
                     <div>© Copyright 2023 - 2024. All Rights Reserved</div>
-                    <div class="">Designed & Developed with <i class="fas fa-heart clr-red"></i> By <a href="#">Rita.et.al</a></div>
+                    <div class="">Designed & Developed with <i class="fas fa-heart clr-red"></i> By <a href="#">Group Canteen</a></div>
                 </main>
             </section>
         `;
@@ -331,17 +331,17 @@ function userFooterUI() {
                     <article class="contact">
                         <ul>
                             <h1 class="sm">Contact Information</h1>
-                            <li> <i class="fas fa-phone-alt"></i> <p>+233 55 876 6063</p></li>
+                            <li> <i class="fas fa-phone-alt"></i> <p>020 578 7188</p></li>
                             <li> <i class="fas fa-envelope"></i> <p>admission@atugroup4.co.in</p></li>
                             <li> <i class="fas fa-map-marker-alt"></i> <p>Address: P. O Box GP 561, Barnes road, Accra.</p></li>
                             <li> <i class="fas fa-globe-asia"></i> <p>For Professional Courses, Visit: www.atu.edu.gh</p></li>
                         </ul>
                     </article>
                 </main>
-                <!-- Rita.et.al Info -->
+                <!-- Group Canteen Info -->
                 <main class="deep-devs flex">
                     <div>© Copyright 2023 - 2024. All Rights Reserved</div>
-                    <div class="">Designed & Developed with <i class="fas fa-heart clr-red"></i> By <a href="#">Rita.et.al</a></div>
+                    <div class="">Designed & Developed with <i class="fas fa-heart clr-red"></i> By <a href="#">Group Canteen</a></div>
                 </main>
             </section>
         `;
